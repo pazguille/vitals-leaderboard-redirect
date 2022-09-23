@@ -1,1 +1,1 @@
-# web-vitals-redirect
+# vitals-leaderboard-redirect
